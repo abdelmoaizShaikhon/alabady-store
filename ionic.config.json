@@ -1,0 +1,8 @@
+{
+  "name": "Alabady Store",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "84ee5d82"
+}
